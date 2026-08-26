@@ -1,0 +1,33 @@
+{
+  "format_version": "1.0",
+  "namespace": "roxy",
+  "roxy_client_ui": {
+    "hud_elements": {
+      "fps_counter": {
+        "enabled": true,
+        "position": [10, 10],
+        "scale": 1.0,
+        "color": [124, 58, 237, 255]
+      },
+      "coordinates_display": {
+        "enabled": true,
+        "position": [10, 30],
+        "scale": 1.0,
+        "color": [59, 130, 246, 255]
+      },
+      "player_info": {
+        "enabled": true,
+        "position": [10, 50],
+        "scale": 1.0,
+        "color": [6, 182, 212, 255]
+      },
+      "watermark": {
+        "enabled": true,
+        "position": [10, 70],
+        "scale": 0.8,
+        "text": "ROXY CLIENT v1.0.0",
+        "color": [124, 58, 237, 255]
+      }
+    }
+  }
+}

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ROXY CLIENT</string>
+    
+    <!-- Main Menu -->
+    <string name="combat">Combat</string>
+    <string name="movement">Movement</string>
+    <string name="visuals">Visuals</string>
+    <string name="player">Player</string>
+    <string name="world">World</string>
+    <string name="hud">HUD</string>
+    <string name="settings">Settings</string>
+    
+    <!-- Status -->
+    <string name="status">Status</string>
+    <string name="connected">Connected</string>
+    <string name="offline">Offline</string>
+    <string name="version">Version</string>
+    
+    <!-- Common -->
+    <string name="enabled">Enabled</string>
+    <string name="disabled">Disabled</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="reset">Reset</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="close">Close</string>
+    
+    <!-- HUD Elements -->
+    <string name="fps">FPS</string>
+    <string name="cps">CPS</string>
+    <string name="coordinates">Coordinates</string>
+    <string name="keystrokes">Keystrokes</string>
+    <string name="ping">Ping</string>
+    <string name="speed">Speed</string>
+    <string name="direction">Direction</string>
+    <string name="watermark">Watermark</string>
+    
+    <!-- Settings -->
+    <string name="menu_animation_speed">Menu Animation Speed</string>
+    <string name="menu_size">Menu Size</string>
+    <string name="floating_button_size">Floating Button Size</string>
+    <string name="floating_button_position">Floating Button Position</string>
+    <string name="theme">Theme</string>
+    <string name="hud_settings">HUD Settings</string>
+    <string name="audio_volume">Audio Volume</string>
+    <string name="music_enabled">Background Music</string>
+    <string name="reset_to_default">Reset to Default</string>
+</resources>
